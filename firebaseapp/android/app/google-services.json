@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "805089397585",
+    "firebase_url": "https://socialapp1-60b2e.firebaseio.com",
+    "project_id": "socialapp1-60b2e",
+    "storage_bucket": "socialapp1-60b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805089397585:android:84b9b4e80088947db42170",
+        "android_client_info": {
+          "package_name": "com.akshit.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805089397585-66pkjkl6db3630q9pnd4u82alp11fhbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS3OPU2mJiTKdenJ_KGH9_1ukmK5181wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805089397585-66pkjkl6db3630q9pnd4u82alp11fhbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
